@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Extensao App</string>
+    <string name="sing_in">Entrar</string>
+    <string name="text_registration">Ainda não possui uma conta? Clique Aqui </string>
+    <string name="title_registration">Cadastre-se</string>
+    <string name="history">Histórico</string>
+    <string name="reports">Relatório Geral</string>
+    <string name="registration">Cadastro</string>
+    <string name="add">Adicionar</string>
+    <string name="user_profile">Perfil</string>
+    <string name="add_record">Adicionar registro</string>
+    <string name="menu_work_history">Histórico</string>
+    <string name="menu_graphics">Gráficos</string>
+    <string name="menu_register">Cadastros</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="add_new_financial_record">Novo registro financeiro</string>
+    <string name="login">Entrar</string>
+    <string name="new_conta">Ainda não possui uma conta? Clique aqui!</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="delete_account">Excluir conta</string>
+    <string name="instruction_delete_account">Para excluir a conta, \n clique no botão abaixo:</string>
+    <string name="save">Salvar</string>
+    <string name="confirm_new_password">Confirmar nova senha</string>
+    <string name="new_password">Nova senha</string>
+    <string name="change_password">Altere aqui a sua senha:</string>
+    <string name="log_out">Deslogar</string>
+    <string name="logo_app">Desenho da logo do aplicativo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
